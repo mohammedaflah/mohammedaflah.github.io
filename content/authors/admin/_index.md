@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Cognitive Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: CBCS
     url: https://openai.com/
 
 # Social network links
@@ -52,7 +52,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Cognitive Scientist
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
